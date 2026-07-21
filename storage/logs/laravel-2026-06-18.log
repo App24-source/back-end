@@ -1,0 +1,3 @@
+[2026-06-18 21:07:49] production.INFO: ========== EditProfile Method Called ========== {"timestamp":"2026-06-18 21:07:49","request_method":"POST","request_url":"https://1azsq21dfsffs45ytuiooihgzgz.flink.ma/api/profile/edite","request_all":{"id":"8484","profileType":"user","firstName":"Fatah","lastName":"Hilal","slug":"fatah_hilal","bio":"الطبيعة والنقاء في بيتك
+
+🎯 نجمع لك بين جودة المنتجات الحيوية والحلول المنزلية ال"},"request_has_ville_id":false,"request_has_tag_id":false,"ville_id_value":null,"tag_id_value":null,"profileType":"user","id":"8484"} 

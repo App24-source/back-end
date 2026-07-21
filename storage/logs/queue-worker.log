@@ -1,0 +1,180 @@
+  2026-07-09 11:02:05 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-09 11:02:26 App\Jobs\ProcessVideoJob ...................... 20s DONE
+  2026-07-09 11:04:23 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-09 11:04:25 App\Jobs\ProcessVideoJob ....................... 2s DONE
+  2026-07-09 11:09:04 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-09 11:09:08 App\Jobs\ProcessVideoJob ....................... 3s DONE
+  2026-07-09 11:11:05 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-09 11:11:09 App\Jobs\ProcessVideoJob ....................... 4s DONE
+  2026-07-09 11:13:24 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-09 11:13:40 App\Jobs\ProcessVideoJob ...................... 15s DONE
+  2026-07-09 11:15:13 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-09 11:15:56 App\Jobs\ProcessVideoJob ...................... 42s DONE
+  2026-07-09 11:17:44 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-09 11:18:25 App\Jobs\ProcessVideoJob ...................... 41s DONE
+  2026-07-09 11:20:55 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-09 11:21:13 App\Jobs\ProcessVideoJob ...................... 18s DONE
+  2026-07-09 11:26:19 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-09 11:26:35 App\Jobs\ProcessVideoJob ...................... 15s DONE
+  2026-07-09 11:28:35 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-09 11:28:55 App\Jobs\ProcessVideoJob ...................... 20s DONE
+  2026-07-09 11:31:07 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-09 11:31:26 App\Jobs\ProcessVideoJob ...................... 18s DONE
+  2026-07-09 11:35:26 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-09 11:35:53 App\Jobs\ProcessVideoJob ...................... 27s DONE
+  2026-07-09 11:43:42 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-09 11:43:43 App\Jobs\ProcessVideoJob ....................... 1s DONE
+  2026-07-09 11:45:19 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-09 11:45:38 App\Jobs\ProcessVideoJob ...................... 18s DONE
+  2026-07-09 11:49:41 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-09 11:49:57 App\Jobs\ProcessVideoJob ...................... 16s DONE
+  2026-07-09 12:33:55 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-09 12:34:00 App\Jobs\ProcessVideoJob ....................... 4s DONE
+  2026-07-09 12:39:31 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-09 12:39:39 App\Jobs\ProcessVideoJob ....................... 8s DONE
+  2026-07-09 12:43:37 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-09 12:43:45 App\Jobs\ProcessVideoJob ....................... 8s DONE
+  2026-07-09 14:03:25 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-09 14:04:02 App\Jobs\ProcessVideoJob ...................... 36s DONE
+  2026-07-09 14:05:32 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-09 14:05:36 App\Jobs\ProcessVideoJob ....................... 4s DONE
+  2026-07-12 19:30:42 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-12 19:31:29 App\Jobs\ProcessVideoJob ...................... 46s DONE
+  2026-07-12 19:34:47 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-12 19:34:51 App\Jobs\ProcessVideoJob ....................... 4s DONE
+  2026-07-12 19:42:21 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-12 19:42:32 App\Jobs\ProcessVideoJob ...................... 10s DONE
+  2026-07-12 20:06:36 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-12 20:06:41 App\Jobs\ProcessVideoJob ....................... 5s DONE
+  2026-07-13 07:03:05 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-13 07:03:33 App\Jobs\ProcessVideoJob ...................... 28s DONE
+  2026-07-13 11:34:12 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-13 11:34:35 App\Jobs\ProcessVideoJob ...................... 23s DONE
+  2026-07-13 11:41:17 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-13 11:41:50 App\Jobs\ProcessVideoJob ...................... 32s DONE
+  2026-07-13 11:47:32 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-13 11:47:38 App\Jobs\ProcessVideoJob ....................... 6s DONE
+  2026-07-13 11:54:26 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-13 11:54:56 App\Jobs\ProcessVideoJob ...................... 29s DONE
+  2026-07-13 11:56:41 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-13 11:57:27 App\Jobs\ProcessVideoJob ...................... 45s DONE
+  2026-07-13 12:02:24 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-13 12:02:30 App\Jobs\ProcessVideoJob ....................... 6s DONE
+  2026-07-13 21:15:19 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-13 21:15:36 App\Jobs\ProcessVideoJob ...................... 16s DONE
+  2026-07-13 21:48:21 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-13 21:48:33 App\Jobs\ProcessVideoJob ...................... 11s DONE
+  2026-07-13 22:19:28 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-13 22:19:40 App\Jobs\ProcessVideoJob ...................... 12s DONE
+  2026-07-13 22:53:35 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-13 22:53:52 App\Jobs\ProcessVideoJob ...................... 16s DONE
+  2026-07-14 13:59:27 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-14 13:59:36 App\Jobs\ProcessVideoJob ....................... 9s DONE
+  2026-07-14 14:18:07 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-14 14:18:35 App\Jobs\ProcessVideoJob ...................... 27s DONE
+  2026-07-14 14:23:41 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-14 14:24:19 App\Jobs\ProcessVideoJob ...................... 38s FAIL
+  2026-07-14 14:24:19 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-14 14:24:57 App\Jobs\ProcessVideoJob ...................... 37s DONE
+  2026-07-14 14:26:30 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-14 14:26:38 App\Jobs\ProcessVideoJob ....................... 7s DONE
+  2026-07-14 14:35:47 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-14 14:36:12 App\Jobs\ProcessVideoJob ...................... 25s DONE
+  2026-07-14 16:05:47 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-14 16:06:01 App\Jobs\ProcessVideoJob ...................... 13s DONE
+  2026-07-14 16:07:13 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-14 16:07:26 App\Jobs\ProcessVideoJob ...................... 12s DONE
+  2026-07-14 19:26:42 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-14 19:27:33 App\Jobs\ProcessVideoJob ...................... 51s FAIL
+  2026-07-14 19:27:33 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-14 19:28:43 App\Jobs\ProcessVideoJob .................... 1m 9s FAIL
+  2026-07-14 19:28:43 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-14 19:29:43 App\Jobs\ProcessVideoJob ...................... 59s DONE
+  2026-07-14 19:30:10 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-14 19:30:56 App\Jobs\ProcessVideoJob ...................... 46s FAIL
+  2026-07-14 19:30:56 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-14 19:32:12 App\Jobs\ProcessVideoJob ................... 1m 15s FAIL
+  2026-07-14 19:32:12 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-14 19:33:04 App\Jobs\ProcessVideoJob ...................... 52s DONE
+  2026-07-14 19:33:04 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-14 19:33:27 App\Jobs\ProcessVideoJob ...................... 22s DONE
+  2026-07-14 19:36:54 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-14 19:37:14 App\Jobs\ProcessVideoJob ...................... 20s DONE
+  2026-07-15 20:30:33 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-15 20:31:15 App\Jobs\ProcessVideoJob ...................... 41s DONE
+  2026-07-15 20:35:33 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-15 20:35:36 App\Jobs\ProcessVideoJob ....................... 3s DONE
+  2026-07-15 20:37:45 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-15 20:37:48 App\Jobs\ProcessVideoJob ....................... 2s DONE
+  2026-07-15 20:40:00 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-15 20:40:29 App\Jobs\ProcessVideoJob ...................... 29s DONE
+  2026-07-16 11:31:55 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-16 11:32:02 App\Jobs\ProcessVideoJob ....................... 6s DONE
+  2026-07-16 11:34:32 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-16 11:35:08 App\Jobs\ProcessVideoJob ...................... 35s DONE
+  2026-07-16 11:38:20 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-16 11:38:31 App\Jobs\ProcessVideoJob ...................... 11s DONE
+  2026-07-16 11:42:43 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-16 11:44:11 App\Jobs\ProcessVideoJob ................... 1m 28s FAIL
+  2026-07-16 11:44:11 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-16 11:46:29 App\Jobs\ProcessVideoJob ................... 2m 17s DONE
+  2026-07-16 11:46:29 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-16 11:47:41 App\Jobs\ProcessVideoJob ................... 1m 11s DONE
+  2026-07-16 11:54:23 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-16 11:54:28 App\Jobs\ProcessVideoJob ....................... 4s DONE
+  2026-07-16 12:00:34 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-16 12:00:47 App\Jobs\ProcessVideoJob ...................... 12s DONE
+  2026-07-17 10:39:40 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-17 10:39:45 App\Jobs\ProcessVideoJob ....................... 5s DONE
+  2026-07-17 11:25:16 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-17 11:25:19 App\Jobs\ProcessVideoJob ....................... 2s DONE
+  2026-07-17 11:37:55 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-17 11:38:02 App\Jobs\ProcessVideoJob ....................... 6s DONE
+  2026-07-17 11:41:59 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-17 11:42:28 App\Jobs\ProcessVideoJob ...................... 29s DONE
+  2026-07-17 11:45:43 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-17 11:46:05 App\Jobs\ProcessVideoJob ...................... 21s DONE
+  2026-07-17 11:55:50 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-17 11:55:58 App\Jobs\ProcessVideoJob ....................... 7s DONE
+  2026-07-17 11:59:37 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-17 11:59:43 App\Jobs\ProcessVideoJob ....................... 6s DONE
+  2026-07-17 13:06:50 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-17 13:06:54 App\Jobs\ProcessVideoJob ....................... 4s DONE
+  2026-07-17 13:09:52 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-17 13:10:11 App\Jobs\ProcessVideoJob ...................... 19s DONE
+  2026-07-17 17:25:16 App\Notifications\FirstPublicationEmailReminder  RUNNING
+  2026-07-17 17:25:17 App\Notifications\FirstPublicationEmailReminder  797.76ms DONE
+  2026-07-17 17:26:08 App\Notifications\AccountCreatedNotification ... RUNNING
+  2026-07-17 17:26:08 App\Notifications\AccountCreatedNotification  4.38ms DONE
+  2026-07-17 17:26:08 App\Notifications\AccountCreatedNotification ... RUNNING
+  2026-07-17 17:26:08 App\Notifications\AccountCreatedNotification  5.93ms DONE
+  2026-07-18 19:29:07 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-18 19:29:45 App\Jobs\ProcessVideoJob ...................... 37s DONE
+  2026-07-19 00:16:42 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-19 00:16:55 App\Jobs\ProcessVideoJob ...................... 13s DONE
+  2026-07-19 00:23:41 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-19 00:23:47 App\Jobs\ProcessVideoJob ....................... 6s DONE
+  2026-07-19 13:41:40 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-19 13:42:02 App\Jobs\ProcessVideoJob ...................... 21s DONE
+  2026-07-20 15:18:16 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-20 15:18:59 App\Jobs\ProcessVideoJob ...................... 42s DONE
+  2026-07-20 15:22:41 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-20 15:22:50 App\Jobs\ProcessVideoJob ....................... 8s DONE
+  2026-07-20 15:31:41 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-20 15:31:45 App\Jobs\ProcessVideoJob ....................... 3s DONE
+  2026-07-20 16:50:17 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-20 16:50:20 App\Jobs\ProcessVideoJob ....................... 2s DONE
+  2026-07-20 16:52:50 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-20 16:53:04 App\Jobs\ProcessVideoJob ...................... 13s DONE
+  2026-07-20 16:54:43 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-20 16:54:50 App\Jobs\ProcessVideoJob ....................... 7s DONE
+  2026-07-20 16:59:05 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-20 16:59:14 App\Jobs\ProcessVideoJob ....................... 8s DONE
+  2026-07-20 17:01:08 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-20 17:02:00 App\Jobs\ProcessVideoJob ...................... 52s FAIL
+  2026-07-20 17:02:00 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-20 17:03:37 App\Jobs\ProcessVideoJob ................... 1m 36s FAIL
+  2026-07-20 17:03:37 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-20 17:04:55 App\Jobs\ProcessVideoJob ................... 1m 18s FAIL
+  2026-07-20 17:06:13 App\Jobs\ProcessVideoJob ....................... RUNNING
+  2026-07-20 17:07:03 App\Jobs\ProcessVideoJob ...................... 49s DONE
